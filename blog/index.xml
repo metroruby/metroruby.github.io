@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on I am nutmanja</title>
+    <link>https://metroruby.github.io/blog/</link>
+    <description>Recent content in Blog on I am nutmanja</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2021 nutmanja</copyright>
+    <lastBuildDate>Sat, 23 Jan 2021 10:44:00 +0700</lastBuildDate><atom:link href="https://metroruby.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro</title>
+      <link>https://metroruby.github.io/blog/goisforlovers/</link>
+      <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://metroruby.github.io/blog/goisforlovers/</guid>
+      <description>HELLOOOO !!! </description>
+    </item>
+    
+  </channel>
+</rss>
