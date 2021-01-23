@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>I am nutmanja</title>
+    <title>i am nutmanja</title>
     <link>https://metroruby.github.io/</link>
-    <description>Recent content on I am nutmanja</description>
+    <description>Recent content on i am nutmanja</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2021 nutmanja</copyright>
     <lastBuildDate>Sat, 23 Jan 2021 10:44:00 +0700</lastBuildDate><atom:link href="https://metroruby.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,16 +13,16 @@
       <pubDate>Sat, 23 Jan 2021 10:44:00 +0700</pubDate>
       
       <guid>https://metroruby.github.io/about/license/</guid>
-      <description>You can put your blog, code, or work license here.</description>
+      <description>Am here.</description>
     </item>
     
     <item>
-      <title>Intro</title>
-      <link>https://metroruby.github.io/blog/goisforlovers/</link>
+      <title>Introduce</title>
+      <link>https://metroruby.github.io/blog/introduce/</link>
       <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://metroruby.github.io/blog/goisforlovers/</guid>
-      <description>HELLOOOO !!! </description>
+      <guid>https://metroruby.github.io/blog/introduce/</guid>
+      <description>Hello World !!! whoami echo $USER ps -o user= -p $$ | awk &amp;#39;{print $1}&amp;#39; </description>
     </item>
     
   </channel>

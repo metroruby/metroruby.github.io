@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on I am nutmanja</title>
+    <title>About on i am nutmanja</title>
     <link>https://metroruby.github.io/about/</link>
-    <description>Recent content in About on I am nutmanja</description>
+    <description>Recent content in About on i am nutmanja</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2021 nutmanja</copyright>
     <lastBuildDate>Sat, 23 Jan 2021 10:44:00 +0700</lastBuildDate><atom:link href="https://metroruby.github.io/about/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Sat, 23 Jan 2021 10:44:00 +0700</pubDate>
       
       <guid>https://metroruby.github.io/about/license/</guid>
-      <description>You can put your blog, code, or work license here.</description>
+      <description>Am here.</description>
     </item>
     
   </channel>
