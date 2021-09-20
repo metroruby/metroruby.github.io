@@ -6,7 +6,11 @@
     <description>Recent content in Blog on i am nutmanja</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2021 nutmanja</copyright>
-    <lastBuildDate>Sat, 23 Jan 2021 10:44:00 +0700</lastBuildDate><atom:link href="https://metroruby.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jan 2021 10:44:00 +0700</lastBuildDate>
+    
+	<atom:link href="https://metroruby.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Introduce</title>
       <link>https://metroruby.github.io/blog/introduce/</link>
